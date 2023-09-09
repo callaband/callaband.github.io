@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Celeste Allaband, DVM, PhD / One Heath and the Microbiome"
+title                    : "Allaband Lab - One Heath and the Microbiome"
 title_separator          : "-"
-name                     : &name "Celeste Allaband"
+name                     : &name "Celeste Allaband, DVM, PhD"
 description              : &description "Veterinarian and Microbiome Researcher"
 url                      : https://callaband.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Celeste Allaband, DVM, PhD"
+  name             : "Celeste Allaband"
   avatar           : "Celeste-101.jpg"
-  bio              : "Currently a postdoctoral researcher in Rob Knight's laboratory at the University of California San Diego. Interested in faculty positions starting 2025."
+  bio              : "Veterinarian (DVM) and Microbiome Researcher (PhD). Currently a postdoctoral researcher in Rob Knight's laboratory at UC San Diego. Interested in faculty positions starting 2025."
   location         : "San Diego, CA"
-  employer         : "University of California San Diego"
+  employer         : "UC San Diego"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Allaband+C&cauthor_id=30240894"
   googlescholar    : "https://scholar.google.com/citations?user=0j7EQcoAAAAJ&hl=en"
   email            : "callaban@health.ucsd.edu"
