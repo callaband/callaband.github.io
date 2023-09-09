@@ -11,30 +11,44 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Biological Sciences with an emphasis in Medical Microbiology, University of California Davis, 2008
+* D.V.M., Colorado State University, 2014
+* Ph.D. from University of California San Diego, 2022
 
-Work experience
+Unique Work Experiences
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* (2015-2017) Associate Veterinarian
+  * Banfield Pet Hospital #0075 – Sand City, CA
+  * Duties included: small animal clinical practice
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* (2014-2015) Associate Veterinarian
+  * Shively Animal Clinic and Hospital
+  * Duties included: small animal clinical practice, emergency care
+
+* Summer 2022: NIAMS Summer Intern
+  * National Institutes of Health 
+  * Project: Finding NEMO - Optimization of immunofluorescence microscopy protocol to elucidate signaling abnormalities in the NF-kB pathway by checking p65 nuclear translocation in skin fibroblast samples from patients with rare mutations in the gene that encodes for the NF-kB essential modulator (NEMO). 
+  * Supervisor: Eric Hanson, MD, MPH
+  
+* (2009-2010) Harvest Laboratory Technician
+  * Robert Mondavi Winery
+  * Duties included: microbiological quality control of all fermenting, aging, and bottling samples
+  * Supervisor: Justin Seidenfeld
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Veterinary Medical
+	* small animal clinical practice
+* Computer
+  * Microsoft Office Suite
+  * Adobe Photoshop and Illustrator
+  * Advanced Python (Jupyter Lab), Beginner R (R Studio)
+  * Qiita/Qiime2
+  * GitHub
+* Research
+	* PCR/qPCR/gel electrophoresis
+	* aerobic microbiological culture and identification
+	* High-throughput DNA extraction methods
 
 Publications
 ======
@@ -54,6 +68,16 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Outreach
 ======
-* Currently signed in to 43 different slack teams
+  <ul>{% for post in site.outreach %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Professional Associations
+======
+* Association for Veterinary Informatics Member (2021-current)
+* American Gastroenterology Association Member (2019-current) 
+* American Society for Microbiology Member (2019-current)
+* California Veterinary Medical Association Member (2016-current) 
+* American Veterinary Medical Association Member (2014-current) 

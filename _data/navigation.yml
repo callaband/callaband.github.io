@@ -9,14 +9,18 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Outreach"
+    url: /outreach/
+    
+  - title: "Mentees"
+    url: /people/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Creative"
+    url: /creative/
+    
+  - title: "Forms"
+    url: /forms/
+
