@@ -4,7 +4,7 @@ Clinicians."
 collection: Reviews
 permalink: /publication/Microbiome101
 excerpt: 'Overview of clinical applications of human microbiome research - its pitfalls, limitations, and future promises'
-date: 2019
+date: 2019-01-05
 venue: 'Clinical gastroenterology and hepatology'
 paperurl: 'https://doi.org/10.1016/j.cgh.2018.09.017'
 citation: 'Allaband, Celeste. (2019). &quot;Microbiome 101: studying, analyzing, and interpreting gut microbiome data for clinicians..&quot; <i>Clinical gastroenterology and hepatology</i>. 17(2), 218-230.'
