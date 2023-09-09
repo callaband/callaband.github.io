@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Allaband Lab - One Heath and the Microbiome"
+title                    : "One Heath and the Microbiome"
 title_separator          : "-"
-name                     : &name "Celeste Allaband, DVM, PhD"
+name                     : &name "Celeste Allaband"
 description              : &description "Veterinarian and Microbiome Researcher"
 url                      : https://callaband.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
