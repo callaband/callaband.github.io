@@ -1,0 +1,16 @@
+---
+title: "Clearing the plate: a strategic approach to mitigate well-to-well contamination in large-scale microbiome studies."
+collection: Additional Articles
+permalink: /publication/MatrixTubes
+excerpt: 'Using barcoded Matrix Tubes, we show a significant reduction in cross-contamination compared to conventional plate-based approaches; this innovation improves large-scale study design by shortening processing times, simplifying analysis, facilitating metadata curation, and producing more reliable results.'
+date: 2024-10-22
+venue: 'Msystems'
+paperurl: 'https://doi.org/10.1128/msystems.00985-24 '
+citation: 'Brennan, et al. (2024). &quot;Clearing the plate: a strategic approach to mitigate well-to-well contamination in large-scale microbiome studies..&quot; <i>Msystems</i>, 9(10):e00985-24.'
+---
+Large-scale studies are essential to answer questions about complex microbial communities that can be extremely dynamic across hosts, environments, and time points. However, managing acquisition, processing, and analysis of large numbers of samples poses many challenges, with cross-contamination being the biggest obstacle. Contamination complicates analysis and results in sample loss, leading to higher costs and constraints on mixed sample type study designs. While many researchers opt for 96-well plates for their workflows, these plates present a significant issue: the shared seal and weak separation between wells leads to well-to-well contamination. To address this concern, we propose an innovative high-throughput approach, termed as the Matrix method, which employs barcoded Matrix Tubes for sample acquisition. This method is complemented by a paired nucleic acid and metabolite extraction, utilizing 95% (vol/vol) ethanol to stabilize microbial communities and as a solvent for extracting metabolites. Comparative analysis between conventional 96-well plate extractions and the Matrix method, measuring 16S rRNA gene levels via quantitative polymerase chain reaction, demonstrates a notable decrease in well-to-well contamination with the Matrix method. Metagenomics, 16S rRNA gene amplicon sequencing (16S), and untargeted metabolomics analysis via liquid chromatography-tandem mass spectrometry (LC-MS/MS) confirmed that the Matrix method recovers reproducible microbial and metabolite compositions that can distinguish between subjects. This advancement is critical for large-scale study design as it minimizes well-to-well contamination and technical variation, shortens processing times, and integrates with automated infrastructure for enhancing sample randomization and metadata generation.
+
+[Download paper here](http://academicpages.github.io/files/MatrixTubes.pdf)
+
+Recommended citation: Brennan C, Belda-Ferre P, Zuffa S, Charron-Lamoureux V, Mohanty I, Ackermann G, 
+<b>Allaband C</b>, Ambre M, Boyer T, Bryant M, Cantrell K. Clearing the plate: a strategic approach to mitigate well-to-well contamination in large-scale microbiome studies. <i>Msystems</i>. 2024 Oct 22;9(10):e00985-24.

@@ -1,0 +1,15 @@
+---
+title: "Intermittent hypoxia and hypercapnia alter diurnal rhythms of luminal gut microbiome and metabolome."
+collection: Articles
+permalink: /publication/CircadianIHC
+excerpt: 'We found changes in microbial families and metabolites during different parts of the day that regulate many metabolic pathways contributing to the increased risk for heart disease seen in patients with obstructive sleep apnea.'
+date: 2021-06-29
+venue: 'Msystems'
+paperurl: 'https://doi.org/10.1128/msystems.00116-21 '
+citation: 'Allaband, et al. (2021). &quot;Intermittent hypoxia and hypercapnia alter diurnal rhythms of luminal gut microbiome and metabolome..&quot; <i>Msystems</i>, 6(3):10-128.'
+---
+Obstructive sleep apnea (OSA), characterized by intermittent hypoxia and hypercapnia (IHC), affects the composition of the gut microbiome and metabolome. The gut microbiome has diurnal oscillations that play a crucial role in regulating circadian and overall metabolic homeostasis. Thus, we hypothesized that IHC adversely alters the gut luminal dynamics of key microbial families and metabolites. The objective of this study was to determine the diurnal dynamics of the fecal microbiome and metabolome of Apoe−/− mice after a week of IHC exposure. Individually housed, 10-week-old Apoe−/− mice on an atherogenic diet were split into two groups. One group was exposed to daily IHC conditions for 10 h (Zeitgeber time 2 [ZT2] to ZT12), while the other was maintained in room air. Six days after the initiation of the IHC conditions, fecal samples were collected every 4 h for 24 h (6 time points). We performed 16S rRNA gene amplicon sequencing and untargeted liquid chromatography-mass spectrometry (LC-MS) to assess changes in the microbiome and metabolome. IHC induced global changes in the cyclical dynamics of the gut microbiome and metabolome. Ruminococcaceae, Lachnospiraceae, S24-7, and Verrucomicrobiaceae had the greatest shifts in their diurnal oscillations. In the metabolome, bile acids, glycerolipids (phosphocholines and phosphoethanolamines), and acylcarnitines were greatly affected. Multi-omic analysis of these results demonstrated that Ruminococcaceae and tauro-β-muricholic acid (TβMCA) cooccur and are associated with IHC conditions and that Coriobacteriaceae and chenodeoxycholic acid (CDCA) cooccur and are associated with control conditions. IHC significantly change the diurnal dynamics of the fecal microbiome and metabolome, increasing members and metabolites that are proinflammatory and proatherogenic while decreasing protective ones.
+
+[Download paper here](http://academicpages.github.io/files/Dynamics_NatMetab.pdf)
+
+Recommended citation: <b>Allaband C</b>, Lingaraju A, Martino C, Russell B, Tripathi A, Poulsen O, Dantas Machado AC, Zhou D, Xue J, Elijah E, Malhotra A. Intermittent hypoxia and hypercapnia alter diurnal rhythms of luminal gut microbiome and metabolome. <i>Msystems</i>. 2021 Jun 29;6(3):10-128.
