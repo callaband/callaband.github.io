@@ -4,7 +4,7 @@ collection: teaching
 type: "Multiple Workshops"
 permalink: /teaching/CarpentriesPythonInst
 venue: "University of California San Diego"
-date: Various
+date: 2025-09-25
 location: "San Diego, CA"
 ---
 
