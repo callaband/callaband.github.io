@@ -17,6 +17,14 @@ Education
 
 Unique Work Experiences
 ======
+* (2022-present) Postdoctoral Researcher
+  * University of California San Diego - [Rob Knight's Lab](https://knightlab.ucsd.edu/)
+  * Ongoing Projects: Mouse models of Atherosclerosis, Gate's Foundation Sepsis Project, KittyBiome Reanalysis, San Deigo Zoo Wildlife Association - African Elephants and Souther White Rhinos
+
+* (2017-2022) Graduate Student Researcher
+  * University of California San Diego - [Amir Zarrinpar's Lab](https://zarrinparlab.org/)
+  * Thesis: Temporal Microbiome Dynamics: From Circadian Rhythms to Probiotic Evolution
+
 * (2015-2017) Associate Veterinarian
   * Banfield Pet Hospital #0075 – Sand City, CA
   * Duties included: small animal clinical practice
@@ -49,6 +57,7 @@ Skills
 	* PCR/qPCR/gel electrophoresis
 	* aerobic microbiological culture and identification
 	* High-throughput DNA extraction methods
+	* python
 
 Publications
 ======
