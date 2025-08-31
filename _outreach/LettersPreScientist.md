@@ -4,7 +4,7 @@ excerpt: "This organization pairs middle schoolers with scientists, engineers, a
 link: https://prescientist.org/
 collection: portfolio
 organization: Letters to a Pre-scientist
-date: 2023-2024
 location: Online
 ---
 
+Participated 2023-2024
