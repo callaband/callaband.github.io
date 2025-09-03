@@ -7,15 +7,15 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+# {% include base_path %}
 
-Education
+## Education
 ======
 * B.S. Biological Sciences with an emphasis in Medical Microbiology, University of California Davis, 2008
 * D.V.M., Colorado State University, 2014
 * Ph.D. from University of California San Diego, 2022
 
-Unique Work Experiences
+## Unique Work Experiences
 ======
 * (2022-present) Postdoctoral Researcher
   * University of California San Diego - [Rob Knight's Lab](https://knightlab.ucsd.edu/)
@@ -43,7 +43,7 @@ Unique Work Experiences
   * Duties included: microbiological quality control of all fermenting, aging, and bottling samples
   * Supervisor: Justin Seidenfeld
   
-Skills
+## Skills
 ======
 * Veterinary Medical
 	* small animal clinical practice
@@ -59,31 +59,31 @@ Skills
 	* High-throughput DNA extraction methods
 	* python
 
-Publications
+## Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+## Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+## Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Outreach
+## Outreach
 ======
   <ul>{% for post in site.outreach %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Professional Associations
+## Professional Associations
 ======
 * Association for Veterinary Informatics Member (2021-current)
 * American Gastroenterology Association Member (2019-current) 
