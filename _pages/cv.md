@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 ======
-___
-
-
+ 
+ 
+ 
 Education
 ======
 * B.S. Biological Sciences with an emphasis in Medical Microbiology, University of California Davis, 2008
