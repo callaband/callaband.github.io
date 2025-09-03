@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 ======
-_____________
+______
 
 
 Education
