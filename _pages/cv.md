@@ -9,9 +9,8 @@ redirect_from:
 
 {% include base_path %}
 ======
- 
- 
- 
+<u>           </u>
+
 Education
 ======
 * B.S. Biological Sciences with an emphasis in Medical Microbiology, University of California Davis, 2008
@@ -22,7 +21,7 @@ Unique Work Experiences
 ======
 * (2022-present) Postdoctoral Researcher
   * University of California San Diego - [Rob Knight's Lab](https://knightlab.ucsd.edu/)
-  * Ongoing Projects: Mouse models of Atherosclerosis, Gate's Foundation Sepsis Project, KittyBiome Reanalysis, San Deigo Zoo Wildlife Association - African Elephants and Souther White Rhinos
+  * Ongoing Projects: Mouse models of Atherosclerosis, Gate's Foundation Sepsis Project, KittyBiome Reanalysis, San Deigo Zoo Wildlife Association - African Elephants and Southern White Rhinoceroses
 
 * (2017-2022) Graduate Student Researcher
   * University of California San Diego - [Amir Zarrinpar's Lab](https://zarrinparlab.org/)
