@@ -1,5 +1,5 @@
 ---
-Name: "Tanya Kumar"
+title: "Tanya Kumar"
 collection: mentees
 type: "Graduate Student"
 permalink: /mentees/tkumar

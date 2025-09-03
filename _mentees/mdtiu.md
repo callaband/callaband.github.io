@@ -1,5 +1,5 @@
 ---
-Name: "Maria Tiu"
+title: "Maria Tiu"
 collection: mentees
 type: "Masters Student"
 permalink: /mentees/mdtiu
