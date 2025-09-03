@@ -8,6 +8,4 @@ date: 2023-06-16
 location: "Houston, TX"
 ---
 
-Presented recent findings on how host circadian rhythms could impact the interpretation of microbiome results, making time of sample collection a critical parameter for microbiome replicability.  
-
-[Recording](https://youtu.be/_t12XHmSiUs)
+Presented recent findings on how host circadian rhythms could impact the interpretation of microbiome results, making time of sample collection a critical parameter for microbiome replicability. [Recording](https://youtu.be/_t12XHmSiUs)
