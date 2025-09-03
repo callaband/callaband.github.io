@@ -24,7 +24,6 @@ In essence, a Carpentries-certified Python instructor's experience is less about
 ---
 ## Dr. Allaband has been a Python Instructor for the following Workshops:
 * [Annual Fall UCSD Workshop - Sept 15-25, 2025](https://jmjamison.github.io/2025-09-15-UC/)
-* [Annual Fall UCSD Workshop - Sept 15-25, 2025](https://jmjamison.github.io/2025-09-15-UC/)
 * [Annual Spring UCSD Workshop - May 6-9, 2025](https://kcdunn1.github.io/2025-05-06-UCSD-ONLINE/)
 * [Fall UCSD Workshop - Nov 12-15, 2024](https://u2ng.github.io/2024-11-12-UCSD-online/)
 * [Annual Fall UCSD Workshop - Sept 11-21, 2023](https://ucsdlib.github.io/2023-09-11-uc-carpentries/)
