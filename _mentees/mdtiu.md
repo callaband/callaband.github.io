@@ -2,7 +2,7 @@
 title: "Maria Tiu"
 collection: mentees
 type: "Masters Student"
-permalink: /mentees/mdtiu
+permalink: /mentees/MariaDTiu
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Tanya Kumar"
 collection: mentees
 type: "Graduate Student"
-permalink: /mentees/tkumar
+permalink: /mentees/TanyaKumar
 
 ---
 
