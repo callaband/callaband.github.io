@@ -19,7 +19,7 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+talkmap_link             : true #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Celeste Allaband"
   avatar           : "Celeste-101.jpg"
-  bio              : "Veterinarian (DVM) and Microbiome Researcher (PhD). Currently a postdoctoral researcher in Rob Knight's laboratory at UC San Diego. Interested in faculty positions starting 2025."
+  bio              : "Veterinarian (DVM) and Microbiome Researcher (PhD). Currently a postdoctoral researcher in Rob Knight's laboratory at UC San Diego."
   location         : "San Diego, CA"
-  employer         : "UC San Diego"
+  employer         : "University of California San Diego"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Allaband+C&cauthor_id=30240894"
   googlescholar    : "https://scholar.google.com/citations?user=0j7EQcoAAAAJ&hl=en"
   email            : "callaban@health.ucsd.edu"
@@ -185,6 +185,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   outreach:
+    output: true
+    permalink: /:collection/:path/
+  mentees:
     output: true
     permalink: /:collection/:path/
 

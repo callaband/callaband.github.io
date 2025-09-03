@@ -4,7 +4,7 @@ collection: teaching
 type: "Multiple Workshops"
 permalink: /teaching/CarpentriesPythonInst
 venue: "University of California San Diego"
-date: 2025-09-25
+date: 2025-11-07
 location: "San Diego, CA"
 ---
 ## A Carpentries-Certified Python Instructor
