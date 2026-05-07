@@ -21,7 +21,7 @@ Unique Work Experiences
 ======
 * (2022-present) Postdoctoral Researcher
   * University of California San Diego - [Rob Knight's Lab](https://knightlab.ucsd.edu/)
-  * Ongoing Projects: Mouse models of Atherosclerosis, Gate's Foundation Sepsis Project, KittyBiome Reanalysis, San Deigo Zoo Wildlife Association - African Elephants and Southern White Rhinoceroses
+  * Ongoing Projects: Multiomic Ocean Health (PacBio long read metagenomics, untargeted LC-MS/MS metabolomics, proteomics) supported by the Minderoo Foundation, Mouse models of atherosclerosis and interactions with bile acids, Gates Foundation Multi-omic Early Life Development Project, KittyBiome Reanalysis, Conservation projects in conjunction with the San Deigo Zoo Wildlife Alliance - African Elephants/Southern White Rhinoceroses Project + Mountain Yellow Legged Frog Project. 
 
 * (2017-2022) Graduate Student Researcher
   * University of California San Diego - [Amir Zarrinpar's Lab](https://zarrinparlab.org/)
@@ -57,9 +57,9 @@ Skills
   * GitHub
 * Research
 	* PCR/qPCR/gel electrophoresis
-	* aerobic microbiological culture and identification
-	* High-throughput DNA extraction methods
-	* python
+	* Aerobic microbiological culture and identification
+	* High-throughput DNA extraction, Library Prepartation, and sequencing methods
+	* Bioinformatics
 
 Publications
 ======
