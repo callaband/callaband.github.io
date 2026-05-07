@@ -61,7 +61,7 @@ Skills
 	* High-throughput DNA extraction, Library Prepartation, and sequencing methods
 	* Bioinformatics
 
-Publications
+Highlighted Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
