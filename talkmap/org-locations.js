@@ -1,7 +1,7 @@
 var addressPoints = [
   [
     "Impact of the Gut Microbiome on Circadian Rhythms and Health<br />Talbot Virtual Veterinary Informatics Symposium; Virginia\u2013Maryland College of Veterinary Medicine, Blacksburg, VA, USA",
-    37.2177109,
+    37.217711,
     -80.42812
   ],
   [
@@ -21,13 +21,13 @@ var addressPoints = [
   ],
   [
     "Multiomic Analyses Lead to Breakthroughs in Medicine<br />Talbot Virtual Veterinary Informatics Symposium; Virginia\u2013Maryland College of Veterinary Medicine, Blacksburg, VA, USA",
-    37.2177109,
+    37.217711,
     -80.42812
   ],
   [
     "Dietary-Induced Changes in the Gut Microbiome and Metabolome Correlate with Improved Clinical Parameters in the Common Marmoset<br />Conference on Beneficial Microbes 2024; Madison, WI, USA",
-    43.074761,
-    -89.3837613
+    43.07469,
+    -89.3841663
   ],
   [
     "Microbiome 101 for veterinarians: Fecal transplantation, microbiome analysis, and more (Part 1 and 2).<br />Fetch DVM360; San Diego, CA",
@@ -38,6 +38,26 @@ var addressPoints = [
     "Engineered Native E. coli Strain Outperforms Engineered Non-Native Strain in Conventionally-Raised Murine Gut over 10 Months<br />ASM Microbe 2023; Houston, TX",
     29.7589382,
     -95.3676974
+  ],
+  [
+    "Dry Kibble Diet has a Bacterial Composition Linked to Metabolic Disease in Healthy Domestic Cats (Felis catus)<br />Cornell Symposium on Artificial Intelligence in Veterinary Medicine (SAVY 3.0); Ithaca, NY, USA",
+    42.4374175,
+    -76.5483724
+  ],
+  [
+    "FXR Deficiency Mitigates Atherosclerosis and the Multi-Omic Metabolic Toll of Obstructive Sleep Apnea in a Mouse Model<br />Cornell SAVY Conference; Washington, D.C., USA",
+    38.8950982,
+    -77.0363849
+  ],
+  [
+    "Milk Molecular Architecture Constrains Gut Microbiome Successional Tempo and Trajectory in Megaherbivores<br />ISME20; Auckland, New Zealand",
+    -36.852095,
+    174.7631803
+  ],
+  [
+    "Microbes, Metabolites, and Mammals: Tracking Early Life Development in Elephants, Rhinos, and Humans<br />Penn State University One Health Conference; State College, PA, USA",
+    40.7944504,
+    -77.8616386
   ],
   [
     "Time of Sample Collection Critical for Microbiome Replicability<br />ASM Microbe 2023; Houston, TX",
