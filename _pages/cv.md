@@ -25,7 +25,7 @@ Unique Work Experiences
 
 * (2017-2022) Graduate Student Researcher
   * University of California San Diego - [Amir Zarrinpar's Lab](https://zarrinparlab.org/)
-  * Thesis: Temporal Microbiome Dynamics: From Circadian Rhythms to Probiotic Evolution
+  * Thesis: Temporal Microbiome Dynamics, From Circadian Rhythms to Probiotic Evolution
 
 * (2015-2017) Associate Veterinarian
   * Banfield Pet Hospital #0075 – Sand City, CA
