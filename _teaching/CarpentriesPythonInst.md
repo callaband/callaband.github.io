@@ -23,8 +23,10 @@ A Carpentries-certified Python instructor combines subject-matter knowledge with
 In essence, a Carpentries-certified Python instructor's experience is less about being a coding virtuoso and more about being an effective, empathetic, and collaborative educator who empowers others to learn and build confidence with computational tools.
 ---
 ## Dr. Allaband has been a Python Instructor for the following Workshops:
+* [Annual Spring UCSD Workshop - May 5-8, 2026](https://kcdunn1.github.io/2026-05-05-UCSD-online/)
+* UCSD School of Global Policy and Strategy Skills Course - January 13-29, 2026 [Canvas]
 * [Annual Fall UCSD Workshop - Sept 15-25, 2025](https://jmjamison.github.io/2025-09-15-UC/)
 * [Annual Spring UCSD Workshop - May 6-9, 2025](https://kcdunn1.github.io/2025-05-06-UCSD-ONLINE/)
-* [Fall UCSD Workshop - Nov 12-15, 2024](https://u2ng.github.io/2024-11-12-UCSD-online/)
+* [Annual Fall UCSD Workshop - Nov 12-15, 2024](https://u2ng.github.io/2024-11-12-UCSD-online/)
 * [Annual Fall UCSD Workshop - Sept 11-21, 2023](https://ucsdlib.github.io/2023-09-11-uc-carpentries/)
 
