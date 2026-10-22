@@ -1,7 +1,8 @@
 ---
+vet: true
 title: "Impact of diet change on the gut microbiome of common marmosets (<i>Callithrix jacchus</i>)."
 collection: Last Author
-permalink: /publication/DolphinFMT
+permalink: /publication/Marmosets
 excerpt: 'Our study shows that a gel diet compared to a biscuit diet improves the health of a marmoset colony, is linked to increases in Bifidobacterium species, and increases the removal of molecules associated with disease.'
 date: 2024-02-01
 venue: 'Journal of Applied Microbiology'

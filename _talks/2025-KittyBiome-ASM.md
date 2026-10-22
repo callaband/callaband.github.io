@@ -1,4 +1,5 @@
 ---
+vet: true
 title: "Dry Kibble Diet Has a Distinct Microbiome Composition Linked to Metabolic Disease in Healthy Domestic Cats"
 collection: talks
 type: "Conference Talk"

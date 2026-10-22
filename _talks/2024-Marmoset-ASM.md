@@ -1,4 +1,5 @@
 ---
+vet: true
 title: "Diet Change Improves Physiological Parameters and Significantly Impacts the Microbiome and Metabolome of the Common Marmoset"
 collection: talks
 type: "Conference Talk"

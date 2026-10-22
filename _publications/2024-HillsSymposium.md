@@ -1,4 +1,5 @@
 ---
+vet: true
 title: "How the gut microbiome affects distal organs."
 collection: Conference Proceedings
 permalink: /publication/HillsGlobalSymposium2024

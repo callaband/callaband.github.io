@@ -1,4 +1,5 @@
 ---
+vet: true
 title: "Impact of the Gut Microbiome on Circadian Rhythms and Health"
 collection: talks
 type: "Invited Lecture"

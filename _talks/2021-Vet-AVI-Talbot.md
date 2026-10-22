@@ -1,4 +1,5 @@
 ---
+vet: true
 title: "Multiomic Analyses Lead to Breakthroughs in Medicine"
 collection: talks
 type: "Invited Lecture"

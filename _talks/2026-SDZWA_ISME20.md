@@ -1,4 +1,5 @@
 ---
+vet: true
 title: "Milk Molecular Architecture Constrains Gut Microbiome Successional Tempo and Trajectory in Megaherbivores"
 collection: talks
 type: "Conference Talk"

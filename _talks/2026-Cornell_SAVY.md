@@ -1,4 +1,5 @@
 ---
+vet: true
 title: "Dry Kibble Diet has a Bacterial Composition Linked to Metabolic Disease in Healthy Domestic Cats (Felis catus)"
 collection: talks
 type: "Conference Talk"

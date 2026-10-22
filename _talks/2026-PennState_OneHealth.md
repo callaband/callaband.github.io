@@ -1,4 +1,5 @@
 ---
+vet: true
 title: "Microbes, Metabolites, and Mammals: Tracking Early Life Development in Elephants, Rhinos, and Humans"
 collection: talks
 type: "Conference Talk"

@@ -1,4 +1,5 @@
 ---
+vet: true
 title: "Microbiome 101 for veterinarians: Fecal transplantation, microbiome analysis, and more (Part 1 and 2)."
 collection: talks
 type: "Invited Lecture (RACE accredited)"

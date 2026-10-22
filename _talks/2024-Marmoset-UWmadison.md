@@ -1,4 +1,5 @@
 ---
+vet: true
 title: "Dietary-Induced Changes in the Gut Microbiome and Metabolome Correlate with Improved Clinical Parameters in the Common Marmoset"
 collection: talks
 type: "Poster Presentation"

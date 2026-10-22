@@ -1,4 +1,5 @@
 ---
+vet: true
 title: "Wildlife-microbiome interactions and disease: exploring opportunities for disease mitigation across ecological scales."
 collection: Perspective
 permalink: /publication/WildlifeMicrobiome

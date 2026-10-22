@@ -3,6 +3,7 @@ layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
+cv_view: general
 redirect_from:
   - /resume
 ---
@@ -10,6 +11,8 @@ redirect_from:
 {% include base_path %}
 ======
 <u>           </u>
+
+{% include cv-toggle.html %}
 
 Education
 ======
@@ -19,9 +22,12 @@ Education
 
 Unique Work Experiences
 ======
-* (2022-present) Postdoctoral Researcher
+* (2026-present) Project Scientist
   * University of California San Diego - [Rob Knight's Lab](https://knightlab.ucsd.edu/)
-  * Ongoing Projects: Multiomic Ocean Health (PacBio long read metagenomics, untargeted LC-MS/MS metabolomics, proteomics) supported by the Minderoo Foundation, Mouse models of atherosclerosis and interactions with bile acids, Gates Foundation Multi-omic Early Life Development Project, KittyBiome Reanalysis, Conservation projects in conjunction with the San Deigo Zoo Wildlife Alliance - African Elephants/Southern White Rhinoceroses Project + Mountain Yellow Legged Frog Project. 
+  * Ongoing Projects: Multiomic Ocean Health (PacBio long read metagenomics, untargeted LC-MS/MS metabolomics, proteomics) supported by the Minderoo Foundation, Mouse models of atherosclerosis and interactions with bile acids, Gates Foundation Multi-omic Early Life Development Project, KittyBiome Reanalysis, Conservation projects in conjunction with the San Diego Zoo Wildlife Alliance - African Elephants/Southern White Rhinoceroses Project + Mountain Yellow Legged Frog Project. 
+
+* (2022-2026) Postdoctoral Researcher
+  * University of California San Diego - [Rob Knight's Lab](https://knightlab.ucsd.edu/)
 
 * (2017-2022) Graduate Student Researcher
   * University of California San Diego - [Amir Zarrinpar's Lab](https://zarrinparlab.org/)
@@ -35,7 +41,7 @@ Unique Work Experiences
   * Shively Animal Clinic and Hospital
   * Duties included: small animal clinical practice, emergency care
 
-* Summer 2022: NIAMS Summer Intern
+* Summer 2012: NIAMS Summer Intern
   * National Institutes of Health 
   * Project: Finding NEMO - Optimization of immunofluorescence microscopy protocol to elucidate signaling abnormalities in the NF-kB pathway by checking p65 nuclear translocation in skin fibroblast samples from patients with rare mutations in the gene that encodes for the NF-kB essential modulator (NEMO). 
   * Supervisor: Eric Hanson, MD, MPH

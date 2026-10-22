@@ -1,4 +1,5 @@
 ---
+vet: true
 title: "Evaluation of the safety and efficacy of fecal microbiota transplantations in bottlenose dolphins (<i>Tursiops truncatus</i>) using metagenomic sequencing."
 collection: Additional Animal Articles
 permalink: /publication/DolphinFMT

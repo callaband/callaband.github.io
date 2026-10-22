@@ -1,4 +1,5 @@
 ---
+vet: true
 title: "Microbiome 101: Studying, Analyzing, and Interpreting Gut Microbiome Data for
 Clinicians."
 collection: Reviews

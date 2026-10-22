@@ -1,4 +1,5 @@
 ---
+vet: true
 title: "Cats on dry kibble diet have significantly different microbiome than those on canned wet food."
 collection: Additional Articles
 permalink: /publication/KittyBiome2026
