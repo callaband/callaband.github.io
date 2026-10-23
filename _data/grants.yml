@@ -1,0 +1,21 @@
+# Grants shown on the Grants page (/grants/). Newest first.
+# Fields: title, funder, number, role, years, status, note (all optional except title)
+
+received:
+  - title: "Peggy Cotter Travel Award"
+    funder: "SCASM"
+    years: "2026"
+    note: "For presentation at ASM Microbe 2026, Washington, D.C."
+  - title: "NIH T32 Training Grant"
+    funder: "National Institutes of Health"
+    number: "T32 OD017863"
+    role: "Trainee"
+    years: "2019-2021"
+
+applied:
+  # Example:
+  # - title: "Grant name"
+  #   funder: "Funding agency"
+  #   role: "PI"
+  #   years: "2027-2029"
+  #   status: "Under review"

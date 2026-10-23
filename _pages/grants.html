@@ -1,0 +1,28 @@
+---
+layout: archive
+title: "Grants"
+permalink: /grants/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% assign sections = "received|Grants Received,applied|Grants Applied For" | split: "," %}
+{% for section in sections %}
+  {% assign parts = section | split: "|" %}
+  {% assign grants = site.data.grants[parts[0]] %}
+<h2>{{ parts[1] }}</h2>
+  {% if grants and grants.size > 0 %}
+    {% for g in grants %}
+<div class="list__item">
+  <article class="archive__item">
+    <h3 class="archive__item-title">{{ g.title }}{% if g.number %} ({{ g.number }}){% endif %}</h3>
+    <p class="page__meta">{% if g.years %}<i class="fa fa-clock-o" aria-hidden="true"></i> {{ g.years }}{% endif %}{% if g.status %} &middot; {{ g.status }}{% endif %}</p>
+    <p class="archive__item-excerpt">{% if g.funder %}{{ g.funder }}{% endif %}{% if g.role %} &middot; Role: {{ g.role }}{% endif %}{% if g.note %}<br>{{ g.note }}{% endif %}</p>
+  </article>
+</div>
+    {% endfor %}
+  {% else %}
+<p><em>Coming soon.</em></p>
+  {% endif %}
+{% endfor %}

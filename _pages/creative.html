@@ -7,8 +7,39 @@ author_profile: true
 
 {% include base_path %}
 
+<style>
+  .creative-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 200px)); gap: 1.25em; margin: 0.5em 0 2.5em 0; }
+  .creative-tile { margin: 0; }
+  .creative-tile a.image-popup { display: block; border-bottom: none; }
+  .creative-tile img { display: block; width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 6px; transition: transform 0.15s ease, box-shadow 0.15s ease; }
+  .creative-tile a.image-popup:hover img { transform: scale(1.03); box-shadow: 0 4px 12px rgba(0,0,0,0.2); }
+  .creative-placeholder { display: flex; align-items: center; justify-content: center; aspect-ratio: 1 / 1; border: 2px dashed #ccc; border-radius: 6px; color: #888; font-size: 0.8em; text-align: center; padding: 0.5em; }
+  .creative-caption { font-size: 0.8em; line-height: 1.3; margin-top: 0.45em; }
+  .creative-caption .sub { color: #888; display: block; }
+</style>
 
-{% for post in site.creative %}
-  {% include archive-single-talk.html %}
+{% assign sections = "painting|Acrylic Painting,quilt|Quilts,pet|Current Pets" | split: "," %}
+{% for section in sections %}
+  {% assign parts = section | split: "|" %}
+  {% assign key = parts[0] %}
+  {% assign items = site.creative | where: "category", key | sort: "order" %}
+
+<h2>{{ parts[1] }}</h2>
+<div class="creative-grid">
+  {% for item in items %}
+  <div class="creative-tile">
+    {% if item.image %}
+    <a class="image-popup" href="{{ base_path }}{{ item.image }}" title="{{ item.tile_title }}{% if item.tile_subtitle %} – {{ item.tile_subtitle }}{% endif %}">
+      <img src="{{ base_path }}{{ item.thumb | default: item.image }}" alt="{{ item.tile_title }}" loading="lazy">
+    </a>
+    {% else %}
+    <div class="creative-placeholder">Photo coming soon</div>
+    {% endif %}
+    <div class="creative-caption">
+      <a href="{{ base_path }}{{ item.url }}">{{ item.tile_title }}</a>
+      {% if item.tile_subtitle %}<span class="sub">{{ item.tile_subtitle }}</span>{% endif %}
+    </div>
+  </div>
+  {% endfor %}
+</div>
 {% endfor %}
-

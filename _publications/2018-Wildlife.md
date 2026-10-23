@@ -7,7 +7,7 @@ excerpt: 'In this perspective, we examine how the microbiome influences gastroin
 date: 2018-06-01
 venue: 'Drug Discovery Today: Disease Models'
 paperurl: 'https://doi.org/10.1016/j.ddmod.2019.08.012 '
-citation: 'Williams, et al. (2024). &quot;Wildlife-microbiome interactions and disease: exploring opportunities for disease mitigation across ecological scales..&quot; <i>Drug Discovery Today: Disease Models</i>. 2018 Jun 1;28:105-15.'
+citation: 'Williams, et al. (2018). &quot;Wildlife-microbiome interactions and disease: exploring opportunities for disease mitigation across ecological scales..&quot; <i>Drug Discovery Today: Disease Models</i>. 2018 Jun 1;28:105-15.'
 ---
 <u>Highlights</u>:
     • Wildlife microbiomes are underexplored and may contain valuable information for animal and human health.
