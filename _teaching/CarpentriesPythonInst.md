@@ -5,6 +5,7 @@ type: "Multiple Workshops"
 permalink: /teaching/CarpentriesPythonInst
 venue: "University of California San Diego"
 date: 2025-11-07
+date_display: "From 2023 to present"
 location: "San Diego, CA"
 ---
 ## A Carpentries-Certified Python Instructor
@@ -23,6 +24,8 @@ A Carpentries-certified Python instructor combines subject-matter knowledge with
 In essence, a Carpentries-certified Python instructor's experience is less about being a coding virtuoso and more about being an effective, empathetic, and collaborative educator who empowers others to learn and build confidence with computational tools.
 ---
 ## Dr. Allaband has been a Python Instructor for the following Workshops:
+* [UCSD/SDSU Fall Workshop - Nov 3-6, 2026](https://ti.to/uc-san-diego-carpentries/uc-san-diego-fall-2026-carpentries-workshop)
+* [Annual Fall UCSD Workshop - Sept 8-23, 2026](https://www.tim-dennis.com/2026-09-08-uc-carpentries/)
 * [Annual Spring UCSD Workshop - May 5-8, 2026](https://kcdunn1.github.io/2026-05-05-UCSD-online/)
 * UCSD School of Global Policy and Strategy Skills Course - January 13-29, 2026 [Canvas]
 * [Annual Fall UCSD Workshop - Sept 15-25, 2025](https://jmjamison.github.io/2025-09-15-UC/)
