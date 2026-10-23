@@ -5,3 +5,5 @@ collection: creative
 ---
 
 Cindy Clawford is still learning to use her scratching posts and is excellent at making biscuits.
+
+<img src='/images/cindy-clawford.png'>

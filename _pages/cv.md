@@ -61,6 +61,7 @@ Skills
   * Advanced Python (Jupyter Lab), Beginner R (R Studio)
   * Qiita/Qiime2
   * GitHub
+  * LLM-assisted coding: Claude, Gemini
 * Research
 	* PCR/qPCR/gel electrophoresis
 	* Aerobic microbiological culture and identification
@@ -75,7 +76,10 @@ Highlighted Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+{% if site.talkmap_link == true %}
+<p style="text-decoration:underline;"><a href="{{ base_path }}/talkmap/map.html">See a map of all the places I've given a talk!</a></p>
+{% endif %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   

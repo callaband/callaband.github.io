@@ -82,6 +82,7 @@ Skills
   * Advanced Python (Jupyter Lab), Beginner R (R Studio)
   * Qiita/Qiime2
   * GitHub
+  * LLM-assisted coding: Claude, Gemini
   * Microsoft Office Suite, Adobe Photoshop and Illustrator
 
 Veterinary, Wildlife & Comparative Medicine Publications
@@ -98,13 +99,16 @@ Additional Publications
 
 Veterinary & Animal Health Talks
 ======
-  <ul>{% for post in site.talks %}{% if post.vet %}
+{% if site.talkmap_link == true %}
+<p style="text-decoration:underline;"><a href="{{ base_path }}/talkmap/map.html">See a map of all the places I've given a talk!</a></p>
+{% endif %}
+  <ul>{% for post in site.talks reversed %}{% if post.vet %}
     {% include archive-single-talk-cv.html %}
   {% endif %}{% endfor %}</ul>
 
 Additional Talks
 ======
-  <ul>{% for post in site.talks %}{% unless post.vet %}
+  <ul>{% for post in site.talks reversed %}{% unless post.vet %}
     {% include archive-single-talk-cv.html %}
   {% endunless %}{% endfor %}</ul>
 

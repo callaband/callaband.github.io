@@ -190,6 +190,9 @@ collections:
   mentees:
     output: true
     permalink: /:collection/:path/
+  creative:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -239,6 +242,13 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _creative (collection)
+  - scope:
+      path: ""
+      type: creative
+    values:
+      layout: single
+      author_profile: true
   # _talks
   - scope:
       path: ""

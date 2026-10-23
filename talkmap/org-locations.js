@@ -45,7 +45,7 @@ var addressPoints = [
     -76.5483724
   ],
   [
-    "FXR Deficiency Mitigates Atherosclerosis and the Multi-Omic Metabolic Toll of Obstructive Sleep Apnea in a Mouse Model<br />Cornell SAVY Conference; Washington, D.C., USA",
+    "FXR Deficiency Mitigates Atherosclerosis and the Multi-Omic Metabolic Toll of Obstructive Sleep Apnea in a Mouse Model<br />ASM Microbe 2026; Washington, D.C., USA",
     38.8950982,
     -77.0363849
   ],

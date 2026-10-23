@@ -5,3 +5,5 @@ collection: creative
 ---
 
 Acrylic Pour Painting Method
+
+<img src='/images/jupyter-like-painting.png'>
