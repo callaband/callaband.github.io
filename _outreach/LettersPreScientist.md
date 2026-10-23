@@ -5,7 +5,9 @@ link: https://prescientist.org/
 collection: portfolio
 type: "Local Community Outreach"
 organization: Letters to a Pre-scientist
+date: 2024-01-01
+date_display: "2023-2024 school year"
 location: Online
 ---
 
-Participated 2023-2024
+Participated during the 2023-2024 school year

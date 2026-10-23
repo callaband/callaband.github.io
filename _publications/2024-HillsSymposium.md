@@ -4,7 +4,7 @@ title: "How the gut microbiome affects distal organs."
 collection: Conference Proceedings
 permalink: /publication/HillsGlobalSymposium2024
 excerpt: 'These proceedings discuss how the microbiome can affect additional organs in the host body.'
-date: 2020-10-24
+date: 2024-10-24
 venue: 'Hills Global Symposium 2024'
 paperurl: ''
 citation: 'Allaband and Knight. (2024). &quot;How the gut microbiome affects distal organs..&quot; <i>Hills Global Symposium</i>.'

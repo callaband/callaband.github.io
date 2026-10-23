@@ -3,7 +3,7 @@ title: "FXR Deficiency Mitigates Atherosclerosis and the Multi-Omic Metabolic To
 collection: talks
 type: "Conference Talk"
 permalink: /talks/2026-Haddad-ASM
-venue: "Cornell SAVY Conference"
+venue: "ASM Microbe 2026"
 date: 2026-06-06
 location: "Washington, D.C., USA"
 ---
